@@ -1,0 +1,19 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Build
+out/
+build/
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
