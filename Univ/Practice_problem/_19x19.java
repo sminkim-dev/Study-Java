@@ -1,4 +1,4 @@
-package Java.Univ.Practice_problem;
+package Univ.Practice_problem;
 import java.util.*;
 public class _19x19 {
     private Scanner sc = new Scanner(System.in);

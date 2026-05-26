@@ -1,4 +1,4 @@
-package study_Java.chap_3;
+package Univ.chap_3;
 
 import java.util.*;
 public class ex_2_18 {
@@ -28,7 +28,7 @@ public class ex_2_18 {
                     student_Test_Point.add(st_point); */
                     break;
                 } catch (InputMismatchException e) {
-                    // TODO: handle exception
+                    
                     System.out.println("양의 정수만 입력하여주십시오.");
                     scanner.nextLine();
                 }
@@ -95,7 +95,7 @@ public class ex_2_18 {
                     System.exit(0);
                 }
             } catch (Exception e) {
-                // TODO: handle exception
+                
                 System.out.println("경고! 정수를 입력하세요.");
                 scanner.nextLine();
             }

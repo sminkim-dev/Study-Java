@@ -1,4 +1,4 @@
-package study_Java.chap_5;
+package Univ.chap_5;
 import java.util.*;
 
 abstract class Box{

@@ -1,4 +1,4 @@
-package Java.Univ.Practice_problem;
+package Univ.Practice_problem;
 
 public class ant_maze {
     private int [][]maze = new int[10][10];

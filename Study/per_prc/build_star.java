@@ -1,4 +1,4 @@
-package study_Java.per_prc;
+package Study.per_prc;
 
 import java.util.*;
 class Star{

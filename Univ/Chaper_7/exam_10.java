@@ -1,4 +1,4 @@
-package Java.Univ.Chaper_7;
+package Univ.Chaper_7;
 import java.util.*;
 import java.util.stream.Collectors;
 public class exam_10 {

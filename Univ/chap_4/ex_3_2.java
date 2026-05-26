@@ -1,4 +1,4 @@
-package study_Java.chap_4;
+package Univ.chap_4;
 
 public class ex_3_2 {
     public static class Cube{

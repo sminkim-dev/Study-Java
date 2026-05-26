@@ -1,4 +1,4 @@
-package study_Java.chap_5;
+package Univ.chap_5;
 
 class Point{
     private int x, y;

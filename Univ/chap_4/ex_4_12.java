@@ -1,4 +1,4 @@
-package study_Java.chap_4;
+package Univ.chap_4;
 import java.util.*;
 class Dictionary{
     private static String [] kor = {"사랑", "아기", "돈", "미래", "희망"};

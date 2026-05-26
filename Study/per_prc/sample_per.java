@@ -1,5 +1,4 @@
-package study_Java.per_prc;
-import java.util.*;
+package Study.per_prc;
 public class sample_per{
     public static void main(String[] args){
         int sum = 0;

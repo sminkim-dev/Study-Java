@@ -1,4 +1,4 @@
-package study_Java.chap_2;
+package Univ.chap_2;
 import java.util.*;
 
 public class ex_1_8 {

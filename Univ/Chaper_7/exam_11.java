@@ -1,4 +1,4 @@
-package Java.Univ.Chaper_7;
+package Univ.Chaper_7;
 import java.util.*;
 public class exam_11 {
     private HashMap<String , ArrayList<Integer>> map = new HashMap<>();

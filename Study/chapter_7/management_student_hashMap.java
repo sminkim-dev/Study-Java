@@ -1,4 +1,4 @@
-package Java.Study.chapter_7;
+package Study.chapter_7;
 import java.util.*;
 
 class Student{

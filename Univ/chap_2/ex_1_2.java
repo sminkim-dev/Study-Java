@@ -1,6 +1,6 @@
-package study_Java.chap_2;
+package Univ.chap_2;
 import java.util.Scanner;
-//import static java.lang.Math.*;
+//import static lang.Math.*;
 
 public class ex_1_2 {
     public static void main(String[] args){

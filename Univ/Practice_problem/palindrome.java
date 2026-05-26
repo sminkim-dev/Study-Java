@@ -1,4 +1,4 @@
-package Java.Univ.Practice_problem;
+package Univ.Practice_problem;
 import java.util.*;
 
 // palindrome 회문이란? >> 앞으로 읽어도 뒤로 읽어도 같은 것을 의미.

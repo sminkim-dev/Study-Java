@@ -1,4 +1,4 @@
-package study_Java.chap_4;
+package Univ.chap_4;
 
 class ArrayUtil{
     public static int[] concat(int [] a, int [] b){

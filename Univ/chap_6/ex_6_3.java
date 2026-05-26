@@ -1,4 +1,4 @@
-package study_Java.chap_6;
+package Univ.chap_6;
 //다른 파일에 따로 분류해서 import 하는 과정을 설명하는 코드. 따로 분리하진 않겠음.
 // calc 는 package util에 main은 package main에 분류해서 끌고 오는 형태로 진행.
 class Calc{

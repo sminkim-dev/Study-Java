@@ -1,4 +1,4 @@
-package study_Java.chap_3;
+package Univ.chap_3;
 
 import java.util.*;
 public class ex_2_17 {
@@ -29,7 +29,7 @@ public class ex_2_17 {
                         System.out.println(coffee + "는(은) 없는 메뉴입니다.");
                     }
             } catch (Exception e) {
-                // TODO: handle exception
+                
                 System.out.println("잔 수는 양의 정수로 입력해주세요!");
                 scanner.nextLine();
             }

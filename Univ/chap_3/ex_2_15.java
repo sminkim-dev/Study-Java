@@ -1,4 +1,4 @@
-package study_Java.chap_3;
+package Univ.chap_3;
 
 import java.util.*;
 public class ex_2_15 {
@@ -12,7 +12,7 @@ public class ex_2_15 {
                 System.out.println(n + " X " + m + " = " + n*m);
                 break;
             } catch (Exception e) {
-                // TODO: handle exception
+                
                 System.out.println("정수를 입력하세요!");
                 scanner.nextLine(); // 잘못된 값이 버퍼 안에 저장되어 있어서 안지워주면 루프로 올라가자마자 바로 catch로 내려와서 무한반복됨.
                 continue;

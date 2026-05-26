@@ -1,4 +1,4 @@
-package study_Java.chap_3;
+package Univ.chap_3;
 
 // 2차원 배열 N을 선언하여 출력하는 코드. 행 (Row) * 열 (Column) ex) [3][4] >> 3행 4열
 public class ex_2_4 {

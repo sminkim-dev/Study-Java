@@ -1,4 +1,4 @@
-package study_Java.chap_3;
+package Univ.chap_3;
 import java.util.*;
 
 public class ex_2_3 {
@@ -18,7 +18,7 @@ public class ex_2_3 {
                     break;
                 }
             } catch (Exception e) {
-                // TODO: handle exception
+                
                 System.out.println("정수를 입력하여 주십시오.");
                 scanner.next();
                 continue;

@@ -1,4 +1,4 @@
-package Java.C_Networks.SocketsExamples;
+package C_Networks.SocketsExamples;
 
 import java.io.InputStream;
 import java.io.OutputStream;

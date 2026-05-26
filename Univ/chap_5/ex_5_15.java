@@ -1,4 +1,4 @@
-package study_Java.chap_5;
+package Univ.chap_5;
 
 interface Shape {
     final double PI = 3.14;

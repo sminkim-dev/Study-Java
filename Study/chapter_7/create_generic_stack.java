@@ -1,4 +1,4 @@
-package Java.Study.chapter_7;
+package Study.chapter_7;
 
 class GStack<T>{
     // 제네릭 스택 선언, 제네릭 타입 T

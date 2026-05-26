@@ -1,4 +1,4 @@
-package Java.Study.chapter_7;
+package Study.chapter_7;
 import java.util.*;
 public class nums_of_elements_HasmMap {
     public static void main(String [] args){

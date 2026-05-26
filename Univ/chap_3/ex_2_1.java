@@ -1,4 +1,4 @@
-package study_Java.chap_3;
+package Univ.chap_3;
 // main 메소드를 만들고 클래스로 whileloop , forloop 클래스를 작성 + do - while 까지.
 
 

@@ -1,4 +1,4 @@
-package study_Java.chap_4;
+package Univ.chap_4;
 
 public class ex_4_6 {
     public static class Rectangle{

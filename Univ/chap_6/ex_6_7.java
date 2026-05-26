@@ -1,4 +1,4 @@
-package study_Java.chap_6;
+package Univ.chap_6;
 import java.util.*;
 
 class MyCalendar {

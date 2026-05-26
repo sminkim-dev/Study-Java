@@ -1,4 +1,4 @@
-package study_Java.chap_4;
+package Univ.chap_4;
 // ex_4_10.java 안에 있는 클래스와 동일 이름의 클래스가 존재해서. 주석 처리해서 안 돌리면 jvm이 생성자를 못찾음. 왜냐면 4_10에서 해당 생성자가 존재하기 때문.
 import java.util.Scanner;
 

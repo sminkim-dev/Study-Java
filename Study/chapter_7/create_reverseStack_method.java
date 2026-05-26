@@ -1,4 +1,4 @@
-package Java.Study.chapter_7;
+package Study.chapter_7;
 
 public class create_reverseStack_method {
     public static <T> GStack<T> reverse(GStack<T> a){

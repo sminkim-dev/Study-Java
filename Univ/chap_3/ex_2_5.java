@@ -1,4 +1,4 @@
-package study_Java.chap_3;
+package Univ.chap_3;
 
 import java.util.*;
 public class ex_2_5 {
@@ -24,7 +24,6 @@ public class ex_2_5 {
                 System.out.print("3의 배수가 없습니다.\n");
             }
         } catch (Exception e) {
-            // TODO: handle exception
             System.out.print("양수를 입력하여 주십시오. > exit");
         }
 

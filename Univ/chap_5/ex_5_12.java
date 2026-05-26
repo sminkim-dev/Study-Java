@@ -1,4 +1,4 @@
-package study_Java.chap_5;
+package Univ.chap_5;
 
 abstract class PairMap {
     protected String keyArray []; // 키 문자열을 저장하는 배열

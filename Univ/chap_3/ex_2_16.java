@@ -1,4 +1,4 @@
-package study_Java.chap_3;
+package Univ.chap_3;
 import java.util.*;
 public class ex_2_16 {
     public static void main(String[] args){
@@ -23,7 +23,7 @@ public class ex_2_16 {
                     others.add(s + " 음수 제외됨");
                 }                
             } catch (NumberFormatException e) {
-                // TODO: handle exception
+                
                 others.add(s + " 문자열 제외됨");
             }
         }
