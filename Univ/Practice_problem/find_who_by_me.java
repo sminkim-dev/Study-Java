@@ -61,7 +61,7 @@ public class find_who_by_me {
         int idx = 0;
         String name="";
         int height_ = 0;
-        for(int i = 0; i < 7; i++){
+        for(int i = 0; i < x.length; i++){
             if(x[i].eye == e){
                 idx = i;
                 name = x[i].name;
